@@ -1,0 +1,5 @@
+ORDER #101
+Customer: Ali
+Items: 1x Cappuccino, 1x Espresso
+Total: PKR 1050
+Status: Preparing
